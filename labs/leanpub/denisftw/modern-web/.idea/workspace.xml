@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db827a1f-5535-41f4-8726-53714dfa9e7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter12/src/main/scala/ch12/ch12-1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter12/src/main/scala/ch12/ch12-2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter15/src/main/scala/untitled.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter20/src/main/scala/casestudy.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter20/src/main/scala/sheet1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter20/src/main/scala/sheet2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter20/src/main/scala/sheet3.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter21/src/main/scala/sheet1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter21/src/main/scala/sheet2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter21/src/main/scala/sheet3.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter21/src/main/scala/sheet4.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter21/src/main/scala/sheet5.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter21/src/main/scala/sheet6.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter21/src/main/scala/sheet7.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter22/src/main/scala/sheet1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter22/src/main/scala/sheet2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/arrays/sheet1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/arrays/sheet2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/immutable/bit-set.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/immutable/hash-tries.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/immutable/queue.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/immutable/red-black-trees.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/immutable/set.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/immutable/stream.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/immutable/vector.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/iterators/sheet1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/iterators/sheet2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/iterators/sheet3.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/mutable/array-buffer.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/mutable/array-sequence.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/mutable/array-stack.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/mutable/concurrent-maps.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/mutable/double-linked-list.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/mutable/hash-tables.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/mutable/linked-list.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/mutable/list-buffer.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/mutable/mutable-bit-sets.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/mutable/mutable-lists.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/mutable/queue.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/mutable/stacks.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/mutable/string-builder.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/mutable/weak-hash-map.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/views/sheet1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/views/sheet2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/views/sheet3.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter24/src/main/scala/views/sheet4.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter26/src/main/scala/case-study.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter26/src/main/scala/regex/sheet1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter26/src/main/scala/unapply/sheet1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter26/src/main/scala/unapply/sheet2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter26/src/main/scala/unapply/sheet3.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter26/src/main/scala/unapplyseq/sheet1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter26/src/main/scala/unapplyseq/sheet2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter29/src/main/scala/recipe/Browser.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter29/src/main/scala/recipe/Database.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter29/src/main/scala/recipe/Food.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter29/src/main/scala/recipe/FoodCategories.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter29/src/main/scala/recipe/Foods.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter29/src/main/scala/recipe/GotApples.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter29/src/main/scala/recipe/Recipe.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter29/src/main/scala/recipe/SimpleBrowser.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter29/src/main/scala/recipe/SimpleDatabase.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter29/src/main/scala/recipe/SimpleFoods.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter29/src/main/scala/recipe/SimpleRecipes.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter29/src/main/scala/recipe/StudentBrowser.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter29/src/main/scala/recipe/StudentDatabase.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter29/src/main/scala/sheet1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter34/src/main/scala/FirstSwingApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter34/src/main/scala/ReactiveSwingApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter34/src/main/scala/SecondSwingApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/chapter34/src/main/scala/TempConverter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/book-examples/html/ch35.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/book-examples/html/ch35.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../resources/books/programming-in-scala/build.sbt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UlEtpYOi5y6KwQ14AXgEFRA8ZB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="modern-web" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="modern-web_6538 [file:/Users/nserfontein/dev/hello/hello-scala/labs/leanpub/denisftw/modern-web/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="modern-web_6538-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3151845999635" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="0" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../PetStoreLagomScala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../akka-management-consul" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../akka/akka-management" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../aurora/api-docs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../aurora/asq-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../aurora/aurora-base-sbt-plugin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../aurora/aurora-common-api-v3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../aurora/aurora-commons-monitoring" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../aurora/aurora-commons-test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../aurora/aurora-formatters-lib" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../aurora/aurora-marktplaats-properties" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../aurora/aurora-mock-icas-buyside" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../aurora/bidlifecycle-acceptance-tests-lib" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../aurora/enquiry-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../aurora/sbt-library-settings" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../aurora/scalatra-error-handling-lib" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../aurora/seller-profile-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../aurora/shared-consul" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../aurora/tenant-settings-lib" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/Scala-Design-Patterns-Second-Edition/Chapter01/skeleton-sbt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/Scala-Design-Patterns-Second-Edition/Chapter02/sbt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/Scala-Design-Patterns-Second-Edition/Chapter03/sbt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/Scala-Design-Patterns-Second-Edition/Chapter04/sbt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/Scala-Design-Patterns-Second-Edition/Chapter05/sbt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/Scala-Design-Patterns-Second-Edition/Chapter06/sbt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/Scala-Design-Patterns-Second-Edition/Chapter07/sbt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/Scala-Design-Patterns-Second-Edition/Chapter08/sbt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/Scala-Design-Patterns-Second-Edition/Chapter12/real-life-applications/sbt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/CoinFlipGameWithCatsIO" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/DebuggableInDetail" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/FPAkkaHelloWorld" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/FPCoinFlipGame" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/FPConcurrencyAndMutability" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/FPDebuggable" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/FPFutures" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/FPIOMonadNotReallyUsed" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/FPLenses" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/FPModulesIrishSetter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/FPMonadTransformers" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/FPRecursionIsGreatBut" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/FPScalaCheck" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/FPTypeClasses" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/FPTypeClassesWithCats" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/HandlingStateManually" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/IOMonad" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/IOMonadHelloWorld" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/PizzaPosFpFunctionalObjectsStyle" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/PizzaPosFpModularStyle" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/PizzaPosOopStyle" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/fpsimplified/StateMonadExample" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/frdomain" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../books/frdomain/frdomain" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../courses/ddd-in-practice-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../csba/cloud/csba-cloud-simulator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../csba/cloud/csba-cloud-specs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../csbizapp/csba-simulator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../csbizapp/csba-simulator/bff" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../examples/Bowling" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../examples/cassandra-phantom-examples" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../examples/lagom-samples/shopping-cart/shopping-cart-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../examples/lagom-scala-chirper" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../examples/online-auction-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../examples/reactive-stock-trader" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../examples/scaladays2016" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../examples/tasktick" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../goos/goos-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hacking/swing-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../.." value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hello-akka/resources/videos/learning-akka/resources/section1/hello-akka" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hello-akka/resources/videos/learning-akka/resources/section5/akka-cluster" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hello-akka/topics/01-hello-world/hello-akka" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hello-akka/topics/02-actor-basics/ask-tell" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hello-akka/topics/02-actor-basics/monitoring" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hello-akka/topics/02-actor-basics/supervision" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hello-akka/topics/02-actor-basics/supervision-monitoring" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hello-akka/topics/02-actor-system/creation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hello-akka/topics/03-basic-tools/actor-path" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hello-akka/topics/03-basic-tools/behavior" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hello-akka/topics/03-basic-tools/routing" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hello-akka/topics/04-persistence/persistence-fsm" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hello-akka/topics/04-persistence/persistence-query" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hello-akka/topics/04-persistence/persistent-actor" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hello-akka/topics/05-akka-cluster/akka-cluster" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hello-akka/topics/05-akka-cluster/akka-remoting" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hello-akka/topics/05-akka-cluster/cluster-sharding" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hello-akka/topics/05-akka-cluster/cluster-singleton" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hello-akka/topics/05-akka-cluster/load-balancer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../hello-akka/topics/05-akka-cluster/load-balancing" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-ddd/resources/courses/ddd-in-practice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-hoverfly" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-kafka/examples" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-kafka/resources/courses/apache-kafka-series/01-learn-apache-kafka-for-beginners/02-examples/kafka-examples" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-macwire/resources/articles/di-in-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-mockserver" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../../../../resources/books/functional-programming-in-scala/resources/fpinscala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../resources/books/programming-in-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../topics/recursion" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-scalajs/tutorials/basics" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-scalajs/tutorials/hands-on/03-canvas-mouse" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-scalajs/tutorials/hands-on/04-canvas-time" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-scalajs/tutorials/hands-on/05-canvas-flappy-bird" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-scalajs/tutorials/hands-on/06-web-hello1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-scalajs/tutorials/hands-on/07-web-hello2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-scalajs/tutorials/hands-on/10-web-service1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-scalajs/tutorials/hands-on/11-web-service2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-scalajs/tutorials/hands-on/12-web-weather-search" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-scalajs/tutorials/hands-on/13-command-line" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-scalajs/tutorials/hands-on/14-cross-build-simple" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-scalajs/tutorials/hands-on/15-client-server" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-scalajs/tutorials/hands-on/16-client-server-autowire" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-scalajs/tutorials/spa-play/resources/scalajs-spa-tutorial-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-slick" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../hello-wiremock" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom-service-generator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom-todo-backend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom/_archive/hello" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom/hello" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom/lagom-java-sbt-chirper-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom/lagom-scala-chirper" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom/lagom-scala-chirper-1.3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom/lagom-todo-backend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom/lagom-up" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom/lagomup-chirper" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom/lagomup-cookbook-topics" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom/lagomup-cookbook-topicsubscriber" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom/lagomup-hello" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom/lagomup-online-auction" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom/lagomup-serializer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom/lagomup-serializer-csv" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom/lagomup-serializer-thrift" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom/lagomup-topics" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom/online-auction-java" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom/online-auction-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../lagom/scaladays-2018-microservices-workshop" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../online-auction-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../reactive-stock-trader" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../reactive-stock-trader/bff" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../reactive-stock-trader/reactive-stock-trader" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../tutorials/intellij-gui-designer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../tutorials/scala-swing" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../vostok/asq-persistence" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../vostok/asq-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../vostok/aurora-customermessaging-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../vostok/aurora-test-support" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../vostok/cms-facade" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../vostok/enquiries" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../vostok/enquiry-aurora-facade" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../vostok/enquiry-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../vostok/enquiry-service-play" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../vostok/enquiry-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../vostok/lagomup-trading" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../vostok/trading" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../vostok/trading-facades" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../vostok/vostok-trading" value="PREVIEW" />
+        <entry key="$USER_HOME$/lagom/lagom-online-auction" value="PREVIEW" />
+        <entry key="$USER_HOME$/lagom/online-auction-java" value="PREVIEW" />
+        <entry key="$USER_HOME$/lagom/online-auction-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/vostok/enquiry-tests" value="PREVIEW" />
+        <entry key="/private/tmp/activator-lagom-cargotracker" value="PREVIEW" />
+        <entry key="/private/tmp/cassandra-phantom" value="PREVIEW" />
+        <entry key="/private/tmp/codegen/scala-code-gen" value="PREVIEW" />
+        <entry key="/private/tmp/csba-cloud-specs-sbt" value="PREVIEW" />
+        <entry key="/private/tmp/goos" value="PREVIEW" />
+        <entry key="/private/tmp/hello" value="PREVIEW" />
+        <entry key="/private/tmp/hello-template" value="PREVIEW" />
+        <entry key="/private/tmp/hello-world" value="PREVIEW" />
+        <entry key="/private/tmp/javaml/scala-seed-project" value="PREVIEW" />
+        <entry key="/private/tmp/lagomup" value="PREVIEW" />
+        <entry key="/private/tmp/mixter" value="PREVIEW" />
+        <entry key="/private/tmp/online-auction-scala" value="PREVIEW" />
+        <entry key="/private/tmp/scala-seed" value="PREVIEW" />
+        <entry key="/private/tmp/wiremock-scala-examples" value="PREVIEW" />
+        <entry key="/private/tmp/workbench-example-app" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db827a1f-5535-41f4-8726-53714dfa9e7f" name="Default Changelist" comment="" />
+      <created>1575922998967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575922998967</updated>
+      <workItem from="1575923000939" duration="85000" />
+    </task>
+    <servers />
+  </component>
+</project>

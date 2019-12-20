@@ -1,0 +1,16 @@
+@(user: model.User)
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Restricted</title>
+    <link rel="stylesheet"
+    href="@routes.Application.versioned("compiled/styles.css")">
+    <link rel="shortcut icon" type="image/png"
+    href="@routes.Application.versioned("images/favicon.png")">
+  </head>
+  <body>
+    <h1>Hello @user.userCode</h1>
+    <div>Your id is @user.userId</div>
+  </body>
+</html>
